@@ -1,1 +1,1 @@
-# Named-Entity-Recognition-with-Bidirectional-LSTM
+# Named Entity Recognition with Bidirectional LSTM
